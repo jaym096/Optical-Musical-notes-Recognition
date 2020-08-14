@@ -26,6 +26,8 @@ In this part first we detected 2 sets of 5 lines. To do this we used similar str
 
 For detection of pitch of the notes, We plan to use co ordinates of center of the box drawn to find distance from the first line and then use this distance to predict the pitch if its a note.
 
+![results](detected.png)
+
 ### HOW TO RUN THE CODE:
 	1. For convenience we have divided the execution of the code into 3 parts: Part3, part4 and the omr.
 	2. The program takes two parameters, the image and a number which represents which part of the assignment to run.
