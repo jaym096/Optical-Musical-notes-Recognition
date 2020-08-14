@@ -1,7 +1,6 @@
 # OMR: Optical Musical notes Recognition
 
-This is an academic project done in the course **CSCI-B 657 Computer Vision** at Indiana University.
-
+This is an academic project done in the course **CSCI-B 657 Computer Vision** at Indiana University. <br>
 **Tools and Technology used:** Python, NumPy, SciPy
 
 An image recognition system which detects all the musical notes and classify the pitch of each of the notes. Implemented Sobel operator and hamming distance to detect the notes and Hough transform to detect upper and lower staff, collectively using them to classify the pitch of a note.
