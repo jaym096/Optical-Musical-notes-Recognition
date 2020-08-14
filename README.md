@@ -4,6 +4,9 @@ This is an academic project done in the course **CSCI-B 657 Computer Vision** at
 
 **Tools and Technology used:** Python, NumPy, SciPy
 
+An image recognition system which detects all the musical notes and classify the pitch of each of the notes. Implemented Sobel operator and hamming distance to detect the notes and Hough transform to detect upper and lower staff, collectively using them to classify the pitch of a note.
+
+
 ### Part 3: Convolving using an arbitary kernel:
 In this part we have to convolve the images using an arbitary kernel. Initially we went ahead with the Guassian kernel implemented using fourier transform. The results were excellent for all the music images, however, it was not the same case for templates. We weren't able to generalize for the template images. Hence, we switched to the hard-code implementation. We defined a blur kernel which convolves any image passed into the function. The results were good for both music as well as template images. The images were handled by padding it with zeros, so that when the images is convolved, it results in the same image of same size. The filter is a 3x3 kernel.
 
