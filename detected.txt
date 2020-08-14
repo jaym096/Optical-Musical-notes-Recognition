@@ -1,0 +1,5 @@
+7, 12, 15, 21, filled_note
+7, 47, 15, 21, filled_note
+19, 82, 15, 21, filled_note
+114, 44, 15, 21, Quarter_rest
+117, 43, 15, 21, Eighth_rest
