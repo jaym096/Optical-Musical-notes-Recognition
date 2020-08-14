@@ -1,4 +1,4 @@
-# Assignment 1
+# OMR: Optical Musical notes Recognition
 
 This is an academic project done in the course **CSCI-B 657 Computer Vision** at Indiana University.
 
